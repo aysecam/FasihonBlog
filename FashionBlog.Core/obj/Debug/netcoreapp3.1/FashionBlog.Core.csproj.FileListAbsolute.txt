@@ -1,0 +1,9 @@
+D:\Windows10\FasihonBlog\FashionBlog.Core\bin\Debug\netcoreapp3.1\FashionBlog.Core.deps.json
+D:\Windows10\FasihonBlog\FashionBlog.Core\bin\Debug\netcoreapp3.1\FashionBlog.Core.dll
+D:\Windows10\FasihonBlog\FashionBlog.Core\bin\Debug\netcoreapp3.1\FashionBlog.Core.pdb
+D:\Windows10\FasihonBlog\FashionBlog.Core\obj\Debug\netcoreapp3.1\FashionBlog.Core.csprojAssemblyReference.cache
+D:\Windows10\FasihonBlog\FashionBlog.Core\obj\Debug\netcoreapp3.1\FashionBlog.Core.AssemblyInfoInputs.cache
+D:\Windows10\FasihonBlog\FashionBlog.Core\obj\Debug\netcoreapp3.1\FashionBlog.Core.AssemblyInfo.cs
+D:\Windows10\FasihonBlog\FashionBlog.Core\obj\Debug\netcoreapp3.1\FashionBlog.Core.csproj.CoreCompileInputs.cache
+D:\Windows10\FasihonBlog\FashionBlog.Core\obj\Debug\netcoreapp3.1\FashionBlog.Core.dll
+D:\Windows10\FasihonBlog\FashionBlog.Core\obj\Debug\netcoreapp3.1\FashionBlog.Core.pdb

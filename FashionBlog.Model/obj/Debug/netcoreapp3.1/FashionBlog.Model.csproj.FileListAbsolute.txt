@@ -1,0 +1,15 @@
+D:\Windows10\FasihonBlog\FashionBlog.Model\bin\Debug\netcoreapp3.1\FashionBlog.Model.deps.json
+D:\Windows10\FasihonBlog\FashionBlog.Model\bin\Debug\netcoreapp3.1\FashionBlog.Model.dll
+D:\Windows10\FasihonBlog\FashionBlog.Model\bin\Debug\netcoreapp3.1\FashionBlog.Model.pdb
+D:\Windows10\FasihonBlog\FashionBlog.Model\bin\Debug\netcoreapp3.1\FashionBlog.Core.dll
+D:\Windows10\FasihonBlog\FashionBlog.Model\bin\Debug\netcoreapp3.1\FashionBlog.Core.pdb
+D:\Windows10\FasihonBlog\FashionBlog.Model\obj\Debug\netcoreapp3.1\FashionBlog.Model.csprojAssemblyReference.cache
+D:\Windows10\FasihonBlog\FashionBlog.Model\obj\Debug\netcoreapp3.1\FashionBlog.Model.AssemblyInfoInputs.cache
+D:\Windows10\FasihonBlog\FashionBlog.Model\obj\Debug\netcoreapp3.1\FashionBlog.Model.AssemblyInfo.cs
+D:\Windows10\FasihonBlog\FashionBlog.Model\obj\Debug\netcoreapp3.1\FashionBlog.Model.csproj.CoreCompileInputs.cache
+D:\Windows10\FasihonBlog\FashionBlog.Model\obj\Debug\netcoreapp3.1\FashionBlog.Model.csproj.CopyComplete
+D:\Windows10\FasihonBlog\FashionBlog.Model\obj\Debug\netcoreapp3.1\FashionBlog.Model.dll
+D:\Windows10\FasihonBlog\FashionBlog.Model\obj\Debug\netcoreapp3.1\FashionBlog.Model.pdb
+D:\Windows10\FasihonBlog\FashionBlog.Model\bin\Debug\netcoreapp3.1\FashionBlog.Model.runtimeconfig.json
+D:\Windows10\FasihonBlog\FashionBlog.Model\bin\Debug\netcoreapp3.1\FashionBlog.Model.runtimeconfig.dev.json
+D:\Windows10\FasihonBlog\FashionBlog.Model\obj\Debug\netcoreapp3.1\FashionBlog.Model.genruntimeconfig.cache
